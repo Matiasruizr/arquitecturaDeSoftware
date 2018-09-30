@@ -1,0 +1,2 @@
+C:\Users\matia\source\repos\proyectoTresChanchitos\proyectoNCapas\solucionNCapas\capaDTO\obj\Debug\capaDTO.csprojResolveAssemblyReference.cache
+C:\Users\matia\source\repos\proyectoTresChanchitos\proyectoNCapas\solucionNCapas\capaDTO\obj\Debug\capaDTO.csproj.CoreCompileInputs.cache
