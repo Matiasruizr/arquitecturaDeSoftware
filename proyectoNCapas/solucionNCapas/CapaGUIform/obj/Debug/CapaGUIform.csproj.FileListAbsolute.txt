@@ -1,0 +1,4 @@
+C:\Users\matia\source\repos\arquitectura2018\arquitecturaDeSoftware\proyectoNCapas\solucionNCapas\CapaGUIform\obj\Debug\CapaGUIform.csprojResolveAssemblyReference.cache
+C:\Users\matia\source\repos\arquitectura2018\arquitecturaDeSoftware\proyectoNCapas\solucionNCapas\CapaGUIform\obj\Debug\CapaGUIform.Properties.Resources.resources
+C:\Users\matia\source\repos\arquitectura2018\arquitecturaDeSoftware\proyectoNCapas\solucionNCapas\CapaGUIform\obj\Debug\CapaGUIform.csproj.GenerateResource.cache
+C:\Users\matia\source\repos\arquitectura2018\arquitecturaDeSoftware\proyectoNCapas\solucionNCapas\CapaGUIform\obj\Debug\CapaGUIform.csproj.CoreCompileInputs.cache

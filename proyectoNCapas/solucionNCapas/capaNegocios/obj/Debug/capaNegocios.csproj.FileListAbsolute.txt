@@ -1,2 +1,4 @@
 C:\Users\matia\source\repos\proyectoTresChanchitos\proyectoNCapas\solucionNCapas\capaNegocios\obj\Debug\capaNegocios.csprojResolveAssemblyReference.cache
 C:\Users\matia\source\repos\proyectoTresChanchitos\proyectoNCapas\solucionNCapas\capaNegocios\obj\Debug\capaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\arquitectura2018\arquitecturaDeSoftware\proyectoNCapas\solucionNCapas\capaNegocios\obj\Debug\capaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\matia\source\repos\arquitectura2018\arquitecturaDeSoftware\proyectoNCapas\solucionNCapas\capaNegocios\obj\Debug\capaNegocios.csproj.CoreCompileInputs.cache

@@ -1,1 +1,3 @@
 C:\Users\matia\source\repos\proyectoTresChanchitos\proyectoNCapas\solucionNCapas\capaConexion\obj\Debug\capaConexion.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\arquitectura2018\arquitecturaDeSoftware\proyectoNCapas\solucionNCapas\capaConexion\obj\Debug\capaConexion.csprojResolveAssemblyReference.cache
+C:\Users\matia\source\repos\arquitectura2018\arquitecturaDeSoftware\proyectoNCapas\solucionNCapas\capaConexion\obj\Debug\capaConexion.csproj.CoreCompileInputs.cache
